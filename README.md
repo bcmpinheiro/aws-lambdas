@@ -15,7 +15,7 @@ Projeto para diferenciação de tipos de lambdas existentes.
 
 ## 🛠 Tecnologias
 
-As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do projeto:
+As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 
 - **[Python](https://www.python.org/)**
 - **[Chalice](https://pypi.org/project/chalice/)**
